@@ -1,0 +1,17 @@
+# Data
+data/images/
+
+# Models
+models/
+
+# Environment
+.env
+venv/
+
+# System files
+.DS_Store
+__pycache__/
+
+# Large files
+*.h5
+*.jpg
