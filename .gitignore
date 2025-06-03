@@ -4,10 +4,6 @@ data/
 # Models
 models/
 
-# Environment
-.env
-venv/
-
 # System files
 .DS_Store
 __pycache__/
