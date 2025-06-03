@@ -1,0 +1,13 @@
+# Data
+data/
+
+# Models
+models/
+
+# System files
+.DS_Store
+__pycache__/
+
+# Large files
+*.h5
+*.jpg
