@@ -31,7 +31,7 @@ WildVision is a wildlife species identification project developed as part of the
 
 Clone the repository:
 ```bash
-git clone https://github.com/Enishe1/WildVision?tab=readme-ov-file
+git clone https://github.com/Enishe1/WildVision/blob/main/readme.md
 ```
 
 ## Datasets
