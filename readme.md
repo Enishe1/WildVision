@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/github/license/Enishe1/WildVision)](https://github.com/Enishe1/WildVision/blob/main/LICENSE.txt)
 [![GitHub stars](https://img.shields.io/github/stars/Enishe1/WildVision)](https://github.com/Enishe1/WildVision/stargazers)
 
-WildVision is a wildlife species identification project developed as part of the Data Science and Artificial Intelligence course at the Faculty of Electrical Engineering, University of Sarajevo. The project employs image classification models to identify various wildlife species, utilizing a dataset of wildlife images. The system aims to assist in the automated classification of wildlife, contributing to conservation efforts and biodiversity monitoring.<br>
+WildVision is a wildlife species identification project developed as part of the Data Science and Artificial Intelligence course at the Faculty of Electrical Engineering, University of Sarajevo. The project employs image classification models to identify various wildlife species native to Bosnia and Herzegovina, utilizing a dataset of wildlife images. The system aims to assist in the automated classification of wildlife, contributing to conservation efforts and biodiversity monitoring.<br>
 
 ## Table of Contents
 - [Overview](#overview)
