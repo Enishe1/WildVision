@@ -69,17 +69,23 @@ Below are some key performance indicators and visualizations from our training r
 ### 1. Detection with ResNet-50.
 
 * **Per-class accuracy:**
-
+* Displays accuracy for each wildlife species (e.g., "Lions: 85%"). Helps identify which animals the model predicts best or struggles with (e.g., "Foxes: 60%").*
+  
     <img src="https://raw.githubusercontent.com/Enishe1/WildVision/main/plots/per_class_accuracy.png" alt="Per Class Accuracy" width="720"/>
 
 
 * **Training history:**
+* Training History (Accuracy & Loss)
 
+    Accuracy Graph: Shows how the model's train (72%) and validation (70%) accuracy improve over epochs, indicating steady learning without severe overfitting.
+
+    Loss Graph: Tracks the decrease in training (~0.95) and validation (~1.05) loss, confirming the model is optimizing well. *
     <img src="https://raw.githubusercontent.com/Enishe1/WildVision/main/plots/training_history.png" alt="Training History" width="720"/>
 
  * **Confusion Matrix:**
+ *visualizes misclassifications (e.g., rows = true species, columns = predictions). Darker off-diagonal cells reveal common errors (e.g., "Deer mistaken for elk").*
 
-  <img src="https://raw.githubusercontent.com/Enishe1/WildVision/main/plots/confusion_matrix.png" alt="Confusion Matrix" width="720"/>
+    <img src="https://raw.githubusercontent.com/Enishe1/WildVision/main/plots/confusion_matrix.png" alt="Confusion Matrix" width="720"/>
 
 
 ## Contributing
