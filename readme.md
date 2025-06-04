@@ -31,13 +31,13 @@ WildVision is a wildlife species identification project developed as part of the
 
 Clone the repository:
 ```bash
-git clone https://github.com/Enishe1/WildVision/blob/main/readme.md
+git clone https://github.com/Enishe1/WildVision.git
 ```
 
 ## Datasets
 
 [Image Recognition Model](https://www.kaggle.com/datasets/pytorch/resnet50/data)<br>
-The dataset used for training and evaluation of detection model is available on pypi.org. 
+The dataset used for training and evaluation of detection model is available on [pypi.org](https://pypi.org/project/pyinaturalist/)<br>. 
 
 ## Training 
 Training was done on ResNet-50 model. The training process was optimised with recommended optimizer for that specific dataset.
