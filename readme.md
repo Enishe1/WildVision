@@ -66,7 +66,7 @@ Following are the training parameters and results of all models.
 Below are some key performance indicators and visualizations from our training runs.
 
 
-### 1. Detection with Large YOLOv11 model
+### 1. Detection with ResNet-50.
 
 * **Per-class accuracy:**
 
